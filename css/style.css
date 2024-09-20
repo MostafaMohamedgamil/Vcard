@@ -89,7 +89,7 @@ h4::before {
 
 .contact i {
 
-    font-size: 30px;
+    font-size: 24px;
 }
 
 .icons i {
@@ -558,6 +558,10 @@ svg {
     top: 0;
     width: 56px;
     z-index: -1;
+}
+
+.our-services-section i{
+font-size: 24px;
 }
 
 
